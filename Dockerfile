@@ -1,4 +1,4 @@
-FROM alpine:3.14
+FROM alpine:3.18.2
 
 COPY gen_keypair.sh gen_keypair.sh
 
